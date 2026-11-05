@@ -12,21 +12,21 @@
 ## 🎚️ Série 1A - Intro NeuralNet (1 % - 📅 Remise le jour même du laboratoire)
 
 ### 1. Activités initiatiques « Train your dragon » (Jay Alammar) ou « Apprivoiser ton Phénix »
-- 📸 Capture d'écran *Train your dragon* (ou *1. Apprivoiser ton Phénix*) : 🔴 LIEN OU IMAGE À REMPLIR  
-- 📸 Capture d'écran *Automation* (ou *2. Automatisation*) : 🔴 LIEN OU IMAGE À REMPLIR  
-- 📸 Capture d'écran *Two* (ou *3. Et puis ils furent Deux*) : 🔴 LIEN OU IMAGE À REMPLIR  
+- 📸 Capture d'écran *Train your dragon* (ou *1. Apprivoiser ton Phénix*) : <br>![Train your dragon](captures/1a-01-train-your-dragon.png)  
+- 📸 Capture d'écran *Automation* (ou *2. Automatisation*) : <br>![Automation](captures/1a-02-automation.png)  
+- 📸 Capture d'écran *Two* (ou *3. Et puis ils furent Deux*) : <br>![Two](captures/1a-03-two.png)  
 
 ### 2. Simulateurs de neurones artificiels et fonction d'activation échelon
-- 📸 Capture d'écran fonction logique **ET (AND)** : 🔴 LIEN OU IMAGE À REMPLIR  
-- 📸 Capture d'écran fonction logique **OU (OR)** : 🔴 LIEN OU IMAGE À REMPLIR  
-- 📸 Capture d'écran fonction logique **NON (NOT)** : 🔴 LIEN OU IMAGE À REMPLIR  
-- 📸 Capture d'écran perceptron 2 couches **XOR** : 🔴 LIEN OU IMAGE À REMPLIR  
+- 📸 Capture d'écran fonction logique **ET (AND)** : <br>![ET](captures/1a-04-et.png)  
+- 📸 Capture d'écran fonction logique **OU (OR)** : <br>![OU](captures/1a-05-ou.png)  
+- 📸 Capture d'écran fonction logique **NON (NOT)** : <br>![NON](captures/1a-06-non.png)  
+- 📸 Capture d'écran perceptron 2 couches **XOR** : <br>![XOR](captures/1a-07-xor.png)  
 
 ### 3. Labo Viarena TensorFlow Playground (séparation de nuages de points)
-- 📸 Capture d'écran nuage **droite (linéaire)** : 🔴 LIEN OU IMAGE À REMPLIR  
-- 📸 Capture d'écran nuage **multi-zone (XOR)** : 🔴 LIEN OU IMAGE À REMPLIR  
-- 📸 Capture d'écran nuage **concentriques** : 🔴 LIEN OU IMAGE À REMPLIR  
-- 📸 Capture d'écran nuage **spirale** : 🔴 LIEN OU IMAGE À REMPLIR  
+- 📸 Capture d'écran nuage **droite (linéaire)** : <br>![Droite](captures/1a-08-playground-droite.png)  
+- 📸 Capture d'écran nuage **multi-zone (XOR)** : <br>![Multi-zone XOR](captures/1a-09-playground-xor.png)  
+- 📸 Capture d'écran nuage **concentriques** : <br>![Concentriques](captures/1a-10-playground-concentriques.png)  
+- 📸 Capture d'écran nuage **spirale** : <br>![Spirale](captures/1a-11-playground-spirale.png)  
 
 ### 4. (Facultatif) Démonstration en classe : « Le Phénix en Keras »
 - Template de démonstration « Le Phénix en Keras » : https://colab.research.google.com/drive/19pLiaKpSbeVfKLKatTSQ68U5foEVGq9k  
