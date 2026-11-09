@@ -37,8 +37,8 @@
 
 ### 🌸 1. Brique 1 : Se familiariser avec `shape` et `reshape` pour préparer les données (1 %)
 - Template de départ « Préparer des fleurs » : https://colab.research.google.com/drive/1aRgoTBMgkEcnNqrkLfupOY6qLz1OFp5M  
-- 📁 Mon notebook « Préparer des fleurs » complété : 🔴 LIEN COLAB À REMPLIR  
-- 💡 *(Facultative)* Ma réponse à la question de réflexion à la fin du notebook (pourquoi `230 400` valeurs est trop gros pour un petit réseau Dense) : 🔴 RÉPONSE FACULTATIVE  
+- 📁 Mon notebook « Préparer des fleurs » complété : [Préparer des fleurs - Edan](https://colab.research.google.com/drive/1orn8ue6meBHNYgDtAu7VY1ZaB8ydr9WU?usp=sharing)  
+- 💡 *(Facultative)* Ma réponse à la question de réflexion à la fin du notebook (pourquoi `230 400` valeurs est trop gros pour un petit réseau Dense) : 230 400 entrées × 16 neurones ≈ 3,7 millions de poids dès la 1re couche Dense (et les photos n’ont pas toutes la même taille) ; MNIST 28 × 28 = 784 entrées seulement, en attendant les CNN qui gardent la grille 2D et partagent de petits filtres.  
 
 ### 🧪 2. Brique 2 : S'approprier un journal Colab introductoire Keras (1 % - Choisir l'Option A ou l'Option B)
 - **Option A (Recommandée - La suite directe des fleurs !)** : Template « Premier réseau neuronal : Les Fleurs (Marguerite vs Pissenlit) » : https://colab.research.google.com/drive/1n0ptZghNPecVKURk9SO6XxsdX-8B8mpR  
