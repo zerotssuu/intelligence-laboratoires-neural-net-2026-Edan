@@ -43,7 +43,7 @@
 ### 🧪 2. Brique 2 : S'approprier un journal Colab introductoire Keras (1 % - Choisir l'Option A ou l'Option B)
 - **Option A (Recommandée - La suite directe des fleurs !)** : Template « Premier réseau neuronal : Les Fleurs (Marguerite vs Pissenlit) » : https://colab.research.google.com/drive/1n0ptZghNPecVKURk9SO6XxsdX-8B8mpR  
 - **Option B (Alternative classique - Régression numérique)** : Template « Premier réseau neuronal (Poids et Taille) » : https://colab.research.google.com/drive/1N0uImy9Q9AavpifabXgS3py0-GJ3XWON  
-- 📁 Mon notebook « Premier réseau neuronal » complété (Option A ou Option B) : 🔴 LIEN COLAB À REMPLIR  
+- 📁 Mon notebook « Premier réseau neuronal » complété (Option A ou Option B) : [Premier réseau neuronal - Fleurs (Rose vs Tournesol) - Edan](https://colab.research.google.com/drive/1qHVEBdjGPZThEDPkEiXJHErFzNzRLwB2?usp=sharing)  
 
 ### 🔢 3. Brique 3 : Laboratoire de reconnaissance des caractères MNIST (1 %)
 - Diaporama des indications : https://intelligence.projet.autos/diapo/indications-labo-mnist/  
