@@ -57,7 +57,7 @@
 
 ### 1. Journal d'introduction aux réseaux convolutifs (CNN)
 - Template de départ « Convolutional Neural Network (CNN) » : https://colab.research.google.com/drive/1UbKbTQLywZ8XqUr8yYLp1PgqRqmqx0JS  
-- 📁 Mon notebook d'intro CNN complété : 🔴 LIEN COLAB À REMPLIR  
+- 📁 Mon notebook d'intro CNN complété : [CNN CIFAR-10 (Source 1) - Edan](https://colab.research.google.com/drive/1s7x1SMNt1NQwyV4I3Q4R4e8S-OnQnt-0?usp=sharing)  
 
 ### 2. S'approprier et franciser un notebook d'application des CNN
 - Template de départ « Expérimentation de reconnaissance de nombres » : https://colab.research.google.com/drive/1Vt6R7lM8B4uLg6NJQT7vwKxwGOOKk3pU  
