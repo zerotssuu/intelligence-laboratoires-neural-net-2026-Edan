@@ -49,7 +49,7 @@
 - Diaporama des indications : https://intelligence.projet.autos/diapo/indications-labo-mnist/  
 - Template de départ MNIST : https://colab.research.google.com/drive/1TSqrvbDIkz6o69jz5EfYS31vM8pQ8eUN  
 - Trucs Matplotlib en français (`Subplots` côte à côte et grille d'images) : https://colab.research.google.com/drive/14iqCZeblYZ_FoR-5tBPTPFNtpJdJqdXH  
-- 📁 Mon notebook « Reconnaissance des caractères MNIST » complété : 🔴 LIEN COLAB À REMPLIR  
+- 📁 Mon notebook « Reconnaissance des caractères MNIST » complété : [Reconnaissance des chiffres MNIST - Edan](https://colab.research.google.com/drive/1yO7cK_rvCr0J0WQMg95C5yYCVIr3k9Mc?usp=sharing)  
 
 ---
 
