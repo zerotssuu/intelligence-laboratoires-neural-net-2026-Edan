@@ -79,8 +79,8 @@
 - 📐 Fichier source modifiable de mon dessin (`.xml`, `.drawio`, etc.) : 🔴 LIEN VERS LE FICHIER SOURCE DANS CE DÉPÔT  
 
 ### 💻 2. Les règles du code - 1 point (1 %)
-- 🔗 Source d'inspiration choisie : 🔴 NOM ET LIEN DU COLAB D'INSPIRATION  
-- 📁 Mon notebook CNN (codé en français, avec documentation des fonctions d'IA, explication des paramètres, valeur alternative d'intérêt et affichage des formats de données à chaque transformation, jusqu'à l'étape d'entraînement) : 🔴 LIEN COLAB OU FICHIER `.ipynb` À REMPLIR  
+- 🔗 Source d'inspiration choisie : « Reconnaissance de vêtements et souliers (Fashion-MNIST) », proposé dans l’énoncé (https://intelligence.projet.autos/labo-neural-net/)  
+- 📁 Mon notebook CNN (codé en français, avec documentation des fonctions d'IA, explication des paramètres, valeur alternative d'intérêt et affichage des formats de données à chaque transformation, jusqu'à l'étape d'entraînement) : [Fashion-MNIST CNN - Edan](https://colab.research.google.com/drive/1-YAeq0Edf3IMldANQKLphSyMbwFpYmWp?usp=sharing)  
 
 ---
 
