@@ -75,8 +75,8 @@
 > Le dessin doit être votre propre œuvre, remis en `.png`, affiché directement ci-dessous dans ce README, et accompagné de son fichier source (`.xml`, `.drawio` ou autre) dans le dépôt. Il doit clarifier : la couche d'entrée (format), chaque couche convolutive (taille, nombre et taille des kernels, taille et nombre des images produites, activation, couche de pooling) et la couche de sortie (classes).
 
 - 🖼️ Affichage direct de mon dessin de blocs (`.png`) :  
-  `![Mon architecture CNN](🔴_CHEMIN_VERS_VOTRE_DESSIN.png)`
-- 📐 Fichier source modifiable de mon dessin (`.xml`, `.drawio`, etc.) : 🔴 LIEN VERS LE FICHIER SOURCE DANS CE DÉPÔT  
+  ![Mon architecture CNN](dessin/architecture-cnn-fashion.png)
+- 📐 Fichier source modifiable de mon dessin (`.xml`, `.drawio`, etc.) : [dessin/architecture-cnn-fashion.drawio](dessin/architecture-cnn-fashion.drawio)  
 
 ### 💻 2. Les règles du code - 1 point (1 %)
 - 🔗 Source d'inspiration choisie : « Reconnaissance de vêtements et souliers (Fashion-MNIST) », proposé dans l’énoncé (https://intelligence.projet.autos/labo-neural-net/)  
