@@ -62,6 +62,7 @@
 ### 2. S'approprier et franciser un notebook d'application des CNN
 - Template de départ « Expérimentation de reconnaissance de nombres » : https://colab.research.google.com/drive/1Vt6R7lM8B4uLg6NJQT7vwKxwGOOKk3pU  
 - 📁 Mon notebook francisé (variables renommées et résumés en français) : [CNN MNIST (Source 2) - Edan](https://colab.research.google.com/drive/1aJ-XpclpJMfDOfkggnU4661xQV7MhAtB?usp=sharing)  
+  ![Architecture du CNN MNIST (plot_model)](captures/2a-architecture-cnn-mnist.png)
 
 ---
 
