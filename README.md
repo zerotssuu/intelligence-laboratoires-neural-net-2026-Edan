@@ -88,16 +88,16 @@
 
 - Simulateur interactif d'exploration (Tokenisation, Attention, Température) : https://intelligence.projet.autos/labo-neural-net/labo-llm/  
 - Template de départ « Labo LLM : Jetons, Attention et Softmax » : https://colab.research.google.com/drive/1QjBka97qpiZZE_1q5oLwqc0SZ6TWVg3z  
-- 📁 Mon notebook « Labo LLM : Jetons, Attention et Softmax » complété : 🔴 LIEN COLAB OU FICHIER `.ipynb` À REMPLIR  
+- 📁 Mon notebook « Labo LLM : Jetons, Attention et Softmax » complété : [Labo LLM - Edan](https://colab.research.google.com/drive/1exAgORKDOuPcXfF08aiAseveTaBfPD0u?usp=sharing)  
 
 ### 🧩 1. La Fabrique de Jetons et la Géométrie du Sens (Embeddings) - 1 point (1 %)
-- 📸 Capture d'écran ou analyse de ma carte 2D (ACP) des plongements vectoriels (768 dimensions) : 🔴 LIEN, IMAGE OU RÉPONSE À REMPLIR  
+- 📸 Capture d'écran ou analyse de ma carte 2D (ACP) des plongements vectoriels (768 dimensions) : 3 groupes bien séparés (sports, nourriture, hiver) ; similarité cosinus hockey↔soccer 0,66 vs hockey↔pizza 0,36, et hockey↔ice 0,49 : GPT-2 a appris que le hockey se joue sur la glace.  
 
 ### 🕸️ 2. La Matrice d'Attention (Self-Attention) - 1 point (1 %)
-- 📸 Capture d'écran ou analyse de ma carte de chaleur (*heatmap*) d'attention : 🔴 LIEN, IMAGE OU RÉPONSE À REMPLIR  
+- 📸 Capture d'écran ou analyse de ma carte de chaleur (*heatmap*) d'attention : « The goalie stopped the puck because he was ready » : à la couche 4, tête 3, « he » donne 62 % de son attention à « goalie » ; le masque causal empêche de regarder les mots suivants.  
 
 ### 🌡️ 3. Le Laboratoire de Température et Softmax - 1 point (1 %)
-- 📸 Capture d'écran ou analyse des deux graphiques de probabilités côte à côte (`T = 0.2` vs `T = 1.8`) : 🔴 LIEN, IMAGE OU RÉPONSE À REMPLIR  
+- 📸 Capture d'écran ou analyse des deux graphiques de probabilités côte à côte (`T = 0.2` vs `T = 1.8`) : À T = 0,2, « played » prend 98,7 % ; à T = 1,8, il tombe à 1,08 % et le Top 10 s’aplatit : basse température = réponses sûres (code), haute = créativité.  
 
 ---
 
