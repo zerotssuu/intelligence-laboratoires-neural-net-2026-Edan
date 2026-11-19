@@ -64,6 +64,9 @@
 - 📁 Mon notebook francisé (variables renommées et résumés en français) : [CNN MNIST (Source 2) - Edan](https://colab.research.google.com/drive/1aJ-XpclpJMfDOfkggnU4661xQV7MhAtB?usp=sharing)  
   ![Architecture du CNN MNIST (plot_model)](captures/2a-architecture-cnn-mnist.png)
 
+### 3. Mon Diaporama-Tutoriel CNN en français (13 diapositives)
+- 📊 [Mon diaporama-tutoriel CNN (PDF)](diaporama-tutoriel-cnn.pdf)
+
 ---
 
 ## 🖼️ Série 2B - Labo Convolutif (2 % - 📅 Remise dans les 7 jours)
